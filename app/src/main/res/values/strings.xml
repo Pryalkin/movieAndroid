@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieSearchSystem</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_subscription">Подписаться</string>
+    <string name="genre">жанр</string>
+    <string name="years">год</string>
+    <string name="country">страна</string>
+    <string name="action">Боевик</string>
+    <string name="adventures">Приключения</string>
+    <string name="drama">Драма</string>
+    <string name="comedy">Комедия</string>
+    <string name="fantastic">Фантастика</string>
+</resources>
